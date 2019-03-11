@@ -3,7 +3,7 @@
 //  JPEG-Image-Compression
 //
 //  Created by admin on 2019-02-06.
-//  Copyright © 2019 maximpuchkov. All rights reserved.
+//  Copyright © 2019 austinwhitney. All rights reserved.
 //
 
 #include "include/mainwindow.h"
