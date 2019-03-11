@@ -3,7 +3,7 @@
 //  JPEG-Image-Compression
 //
 //  Created for CMPT365, Programming Assignment 2 on 2019-02-04.
-//  Copyright © 2019 maximpuchkov. All rights reserved.
+//  Copyright © 2019 austinwhitney. All rights reserved.
 //
 
 
